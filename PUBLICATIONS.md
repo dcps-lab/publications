@@ -5,8 +5,6 @@ Este arquivo organiza todas as publicações vinculadas ao DCPS Lab com links di
 ---
 # 📅 2026
 
-## 🔹 Artigos em Periódicos
-
 ## 🔹 Artigos em Eventos
 
 ### A Modular Architecture for IoT Monitoring and Data Processing 
@@ -22,16 +20,10 @@ Este arquivo organiza todas as publicações vinculadas ao DCPS Lab com links di
 - **Status:** Under Review
 - **DOI:** 
 - **Repositório:**
----
-
-## 🔹 TCC / Dissertações
 
 ---
-
 
 # 📅 2025
-
-## 🔹 Artigos em Periódicos
 
 ## 🔹 Artigos em Eventos
 
@@ -50,14 +42,7 @@ Este arquivo organiza todas as publicações vinculadas ao DCPS Lab com links di
 - **Repositório:**
 ---
 
-## 🔹 TCC / Dissertações
-
----
-
-
 # 📅 2024
-
-## 🔹 Artigos em Periódicos
 
 ## 🔹 Artigos em Eventos
 
@@ -68,9 +53,4 @@ Este arquivo organiza todas as publicações vinculadas ao DCPS Lab com links di
 - **DOI:** https://doi.org/10.14210/cotb.v15.p118-125
 - **Repositório:** https://github.com/luizfmello01/tcc_ssd_yolo
 ---
-
-## 🔹 TCC / Dissertações
-
----
-
 
