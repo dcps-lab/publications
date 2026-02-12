@@ -8,6 +8,8 @@ As publicações aqui listadas seguem os padrões metodológicos oficiais do lab
 
 # 📚 Categorias
 
+---
+
 ## 🔹 Trabalhos de Conclusão de Curso (TCC)
 
 Projetos desenvolvidos no âmbito de orientação acadêmica vinculada ao DCPS Lab.
