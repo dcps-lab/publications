@@ -44,7 +44,7 @@ Informações obrigatórias:
 ---
 
 
-## 📚 Produção Científica
+# 📚 Produção Científica
 
 A produção científica do DCPS Lab está organizada em repositório dedicado:
 
