@@ -43,6 +43,19 @@ Informações obrigatórias:
 
 ---
 
+
+## 📚 Produção Científica
+
+A produção científica do DCPS Lab está organizada em repositório dedicado:
+
+🔗 [DCPS Lab — Publicações](https://github.com/dcps-lab/publications/blob/main/PUBLICATIONS.md)
+
+As publicações são organizadas por categoria e ano, com DOI e repositórios vinculados.
+
+---
+
+
+
 # 🌍 Visão Estratégica
 
 O DCPS Lab busca consolidar produção científica consistente nas áreas de:
