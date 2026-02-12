@@ -10,50 +10,20 @@ As publicações aqui listadas seguem os padrões metodológicos oficiais do lab
 
 ## 🔹 Trabalhos de Conclusão de Curso (TCC)
 Projetos desenvolvidos no âmbito de orientação acadêmica vinculados ao DCPS Lab.
-
-Cada trabalho deve possuir:
-- Repositório correspondente
-- Dataset organizado (quando aplicável)
-- Versão do artigo submetido
-- Evento ou periódico associado
-
 ---
 
-## 🔹 Artigos em Eventos
-Publicações aceitas ou submetidas a conferências técnicas.
+## 🔹 Artigos em Eventos, Periódicos,ou Preprints
+Publicações aceitas ou submetidas a conferências técnicas, periódicos nacionais ou internacionais, ou versões preliminares publicadas em repositórios como arXiv.
 
 Informações obrigatórias:
 - Título
 - Autores
 - Evento
-- Ano
+- Status (submetido, aceito, publicado) ou declaração de versão preliminar
 - DOI (quando disponível)
-- Link para repositório
-
+- Link para repositório (quando disponível)
 ---
 
-## 🔹 Artigos em Periódicos
-Publicações em periódicos nacionais ou internacionais.
-
-Informações obrigatórias:
-- Título
-- Autores
-- Periódico
-- Ano
-- DOI
-- Status (submetido, aceito, publicado)
-
----
-
-## 🔹 Preprints
-Versões preliminares publicadas em repositórios como arXiv.
-
-Devem conter:
-- Identificador arXiv
-- Link para versão final (quando disponível)
-- Declaração de versão preliminar
-
----
 
 # 🧾 Política de Publicação
 
@@ -68,16 +38,6 @@ Devem conter:
 
 ---
 
-# 📊 Organização por Ano
-
-## 2024
-- [Título do trabalho] – Evento/Periódico – Status
-
-## 2025
-- [Título do trabalho] – Evento/Periódico – Status
-
----
-
 # 🌍 Visão Estratégica
 
 O DCPS Lab busca consolidar produção científica consistente nas áreas de:
@@ -85,6 +45,7 @@ O DCPS Lab busca consolidar produção científica consistente nas áreas de:
 - Sistemas embarcados determinísticos
 - Comunicação segura
 - Sistemas ciberfísicos aplicados à infraestrutura crítica
+- Eletrônica de Potência
 
 ---
 
